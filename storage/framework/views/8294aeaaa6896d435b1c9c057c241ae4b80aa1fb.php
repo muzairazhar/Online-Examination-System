@@ -1,0 +1,1 @@
+<h1>404 - Page is expired</h1><?php /**PATH D:\all-laravel-works\Online-Examination-System\resources\views/404.blade.php ENDPATH**/ ?>
